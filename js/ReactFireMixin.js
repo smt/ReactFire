@@ -84,3 +84,5 @@ var ReactFireMixin;
     }
   };
 })();
+
+if (typeof exports === 'object') module.exports = ReactFireMixin;
